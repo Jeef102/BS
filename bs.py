@@ -1,1 +1,3 @@
-print('Hello!')
+import scipy
+print('Hello')
+print('Hello')
